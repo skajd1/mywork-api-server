@@ -1,10 +1,13 @@
 package com.myworkapiserver.user.dto;
 
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
+@AllArgsConstructor
 public class UserInfoResponse {
-    private int uid;
+    private Long uid;
     private String name;
+
 }
