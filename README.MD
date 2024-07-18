@@ -20,3 +20,4 @@
     - /user/{uid}  | param : name
 - **DELETE**
     - /user/{uid}
+![1](https://github.com/user-attachments/assets/cfc75afb-a07e-464e-9262-bf799b196aef)
