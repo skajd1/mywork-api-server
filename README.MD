@@ -4,6 +4,7 @@
 - jdk17
 - Spring Boot 3
 - MySQL 5.7
+- JPA
 
 ## API List
 ### HealthCheck
