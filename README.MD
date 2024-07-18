@@ -1,5 +1,9 @@
 # mywork-api-server
 
+[mywork-infrastructure](https://github.com/skajd1/mywork-infrastructure)
+
+해당 인프라 구조를 통해 배포할 수 있습니다.
+
 ## Environment
 - jdk17
 - Spring Boot 3
