@@ -12,7 +12,7 @@
 
 ### User Domain
 - **GET**
-    - /user/list
+    - /user
     - /user/{uid}
 - **POST**
     - /user | param : name
@@ -20,4 +20,12 @@
     - /user/{uid}  | param : name
 - **DELETE**
     - /user/{uid}
+
+## 동작 확인
+- /health - get
 ![1](https://github.com/user-attachments/assets/cfc75afb-a07e-464e-9262-bf799b196aef)
+- /user - get
+![2](https://github.com/user-attachments/assets/35a8756e-fd86-461c-a684-d9aec36146a9)
+- /user/{uid}
+![3](https://github.com/user-attachments/assets/1d4535fe-40bf-416c-bc00-0a7d9a8e9a29)
+
